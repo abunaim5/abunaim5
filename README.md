@@ -1,4 +1,6 @@
-
+<a href="https://www.linkedin.com/in/abnaim">
+<img src="https://github.com/abunaim5/abunaim5/blob/main/images/banner.svg" />
+</a>
 
 ## About Me 🚀
 #### Hi there, I'm Abu Naim! 👋
