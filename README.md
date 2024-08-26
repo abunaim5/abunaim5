@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/abunaim7">
-<img src="https://github.com/abunaim5/abunaim5/blob/main/images/banner.svg" />
+<img src="https://github.com/abunaim5/abunaim5/blob/main/images/cover.svg" />
 </a>
 
 ## About Me 🚀
