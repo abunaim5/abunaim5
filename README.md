@@ -29,7 +29,7 @@ I am a passionate Frontend Developer specializing in the MERN stack (MongoDB, Ex
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000000)
 
 ## Connect with me 🌐
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/abnaim)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/abunaim7)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/itsabunaim)
 
 ---
