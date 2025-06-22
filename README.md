@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/abunaim7">
+<a href="https://www.linkedin.com/in/abunaimio">
 <img src="https://github.com/abunaim5/abunaim5/blob/main/images/cover.svg" />
 </a>
 
@@ -29,8 +29,9 @@ I am a passionate Frontend Developer specializing in the MERN stack (MongoDB, Ex
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000000)
 
 ## Connect with me 🌐
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/abunaim7)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/itsabunaim)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/abunaimio)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fabunaimio)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://x.com/abunaimio)
 
 ---
 
