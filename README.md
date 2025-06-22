@@ -7,7 +7,7 @@
 I am a passionate Frontend Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). With a keen eye for design and a love for coding, I build responsive, user-friendly web applications that deliver seamless user experiences. I'm always eager to learn new technologies and improve my skills to stay ahead in the fast-paced world of web development.
 
 - 🌱 I’m currently learning everything about Frontend Development.
-- 👨‍💻 All of my projects are available at [My Portfolio](hello-abu-naim.web.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://hello-abu-naim.web.app)
 - 💬 Ask me about HTML, CSS, JavaScript, and React.
 - 📫 How to reach me: [abunaim140@gmail.com](mailto:abunaim140@gmail.com)
 
