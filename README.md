@@ -30,7 +30,7 @@ I am a passionate Frontend Developer specializing in the MERN stack (MongoDB, Ex
 
 ## Connect with me 🌐
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/abunaimio)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fabunaimio)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com)](https://x.com/abunaimio)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://x.com/abunaimio)
 
 ---
